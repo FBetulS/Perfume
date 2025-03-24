@@ -22,9 +22,3 @@ Veriler, [Fragrantica Data | Kaggle](https://www.kaggle.com/datasets/joehusseinm
 1. Gerekli kütüphaneleri yükleyin.
 2. Veriyi indirin ve uygun bir dizine yerleştirin.
 3. Jupyter Notebook veya benzeri bir ortamda analizi çalıştırın.
-
-## Katkıda Bulunma
-Projeye katkıda bulunmak isterseniz, öneri ve hata bildirimlerinde bulunabilirsiniz.
-
-## İletişim
-Herhangi bir sorunuz veya yorumunuz varsa, lütfen iletişime geçin.
